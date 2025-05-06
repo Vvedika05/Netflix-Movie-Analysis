@@ -62,7 +62,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a dataset of Netfli
 ## ✅ Project Status
 - **Completed (Basic EDA)**
 
-##🔜 Possible Extensions:
+## 🔜 Possible Extensions:
 - 📊 Correlation analysis between runtime and ratings
 - ☁️ Word clouds for movie titles or descriptions
 - 📈 Interactive dashboard using Plotly or Streamlit
